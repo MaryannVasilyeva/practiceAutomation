@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="1">
+
+  <testsuite name="bugVsError"
+    errors="1" failures="1" hostname="" id="" package="bugVsError" skipped="0"
+    tests="1" time="11.87" timestamp="">
+  
+    <testcase name="Problem 5" classname="bugVsError" time="11.87" assertions="1">  <failure message="Expected element &lt;name=&#34;phoneEntry&#34;]&gt; to have value not equal: &#34;8015551234&#34; - element was not found - expected [0;32m&#34;present&#34;[0m but got: [0;31m&#34;not present&#34;[0m">    at Object.Problem 5 (/Users/maryann/DevMountain/practiceAutomation/tests/bugVsError.js:80:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Problem 5 (/Users/maryann/DevMountain/practiceAutomation/tests/bugVsError.js:80:21)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

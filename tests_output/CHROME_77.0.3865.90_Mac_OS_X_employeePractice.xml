@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="9">
+
+  <testsuite name="employeePractice"
+    errors="0" failures="0" hostname="" id="" package="employeePractice" skipped="0"
+    tests="9" time="10.87" timestamp="">
+  
+    <testcase name="Information saves without clicking save - NO LONGER" classname="employeePractice" time="0.9130" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check if information saves without clicking SAVE" classname="employeePractice" time="1.904" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check if information saves with clicking SAVE" classname="employeePractice" time="1.341" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Checking if the name phone number, title could save anything into the input fields" classname="employeePractice" time="1.307" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Checking if you could error message displays and has correct spelling for invalid phone number" classname="employeePractice" time="0.9150" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Checking if the Name input field will also bring up the error for Title field" classname="employeePractice" time="1.505" assertions="14">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Checking if error message still display when switching to other employee forms" classname="employeePractice" time="1.233" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Adding a New Employee" classname="employeePractice" time="1.402" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Assertion testing" classname="employeePractice" time="0.3510" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
